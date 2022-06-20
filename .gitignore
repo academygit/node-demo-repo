@@ -1,3 +1,7 @@
+# Demo ignore
+secrets/aws/*
+*.py
+
 # Logs
 logs
 *.log
